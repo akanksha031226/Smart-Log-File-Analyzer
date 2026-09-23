@@ -1,0 +1,10 @@
+INFO: Application started
+INF0: User logged in 
+WARNING: Memory usage is high
+ERROR: Database connection failed
+INF0: User opened dashboard 
+ERROR: Login failed
+WARNING: Internet connection is slow 
+ERROR: Database connection failed
+ERROR: File not found
+INF0: Application closed

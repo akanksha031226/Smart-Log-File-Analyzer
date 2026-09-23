@@ -1,0 +1,12 @@
+===== SMART LOG FILE ANALYZER =====
+INFO messages: 1
+WARNING messages: 2
+ERROR messages: 4
+
+===== ERROR DETAILS =====
+Database connection failed -> 2 time(s)
+Login failed -> 1 time(s)
+File not found -> 1 time(s)
+
+Most frequent error: Database connection failed
+Frequency: 2 time(s)
